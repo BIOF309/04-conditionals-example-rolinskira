@@ -1,1 +1,1 @@
-# 02-gc-percent-rolinskira
+# 04 conditionals example is within HW directory
